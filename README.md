@@ -1,2 +1,2 @@
-# spring-boot-jersey-jetty
-A sample spring boot application intergrated with Jersey and embedded Jetty.
+# Sample Spring Boot applicaion using Jetty, Jersey, Hibernate ,JPA
+
